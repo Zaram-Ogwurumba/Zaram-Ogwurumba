@@ -25,8 +25,10 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** Content-based recommended system using genre, age-rating, trends, ratings, runtime and era.
+- **CUSTOMER BEHAVIOUR:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **NETFLIX :** Content-based recommended system using genre, age-rating, trends, ratings, runtime and era.
+- **MUSIC THERAPY:** How music improve individual stress, mood and overall mental health.
+- **SCOTCH PIZZA:** Top sales based on type or size of the pizza or location of purchase.
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
